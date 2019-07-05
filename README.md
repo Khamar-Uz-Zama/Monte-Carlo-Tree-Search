@@ -6,3 +6,4 @@ However I've done few modifications to the original package as per my requiremen
 
 # Monte-Carlo-Tree-Search
 Implementing Monte Carlo Tree Search for the game Shogi
+The current implementation isnt very good and there's always room for improvement. Feel free to let me know if you have any suggestions.

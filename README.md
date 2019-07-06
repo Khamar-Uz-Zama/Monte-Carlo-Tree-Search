@@ -10,9 +10,9 @@ __________________
 # Monte-Carlo-Tree-Search
 Implementation for Monte Carlo Tree Search for the game Shogi
 
-Shogi_MC.py is the main program which runs the algorithm against the random agent.
-In MonteCarloTreeSearch.py, all the four phases of the algorithm are defined.
-To implement the tree structure, Tree.py and Nodee.py classes are used.
-State.py is used for storing the state of the game.
-UCT.py helps in calculating the UCB-1 values in the selection phase of MCTS
+Shogi_MC.py is the main program which runs the algorithm against the random agent. <br/>
+In MonteCarloTreeSearch.py, all the four phases of the algorithm are defined. <br/>
+To implement the tree structure, Tree.py and Nodee.py classes are used. <br/>
+State.py is used for storing the state of the game. <br/>
+UCT.py helps in calculating the UCB-1 values in the selection phase of MCTS. <br/>
 
